@@ -8,6 +8,7 @@ Nova Core
 
 Nova Star
 * The primary flame effect devices. These have fire and go BOOM!
+* https://github.com/NOVA-Cluster/nova-star
 
 Nova Branding
 * The artwork and style of Nova
